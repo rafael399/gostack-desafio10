@@ -3,12 +3,14 @@
 - Clone this repo
 - Execute `yarn` to install the dependencies
 - Execute `yarn json-server server.json -p 3333` to run the fake API
+- Execute `yarn start` to start the application
 
 ## :question: Como rodar o desafio
 
 - Clonar repositório
 - Executar o comando `yarn` para fazer a instalação das dependencias
 - Executar o comando `yarn json-server server.json -p 3333` para rodar a fake API
+- Executar o comando `yarn start` para iniciar a aplicação
 
 
 
