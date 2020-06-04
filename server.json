@@ -25,28 +25,28 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "id": 4,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "name": "Havaiana",
-      "price": "19.99",
+      "price": "123",
       "description": "Pizza com presunto, abacaxi, molho de tomate",
-      "available": true,
-      "id": 4
+      "available": true
     },
     {
+      "id": 5,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "asdas",
+      "name": "Test",
       "price": "123",
       "description": "asdasd",
-      "available": true,
-      "id": 5
+      "available": true
     },
     {
+      "id": 6,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "asdasd",
+      "name": "asdasdas",
       "price": "12",
       "description": "asd",
-      "available": true,
-      "id": 6
+      "available": true
     },
     {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
