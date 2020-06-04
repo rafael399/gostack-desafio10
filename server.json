@@ -39,22 +39,6 @@
       "price": "123",
       "description": "asdasd",
       "available": true
-    },
-    {
-      "id": 6,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "asdasdas",
-      "price": "12",
-      "description": "asd",
-      "available": true
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "asdasd",
-      "price": "123",
-      "description": "asdasd",
-      "available": true,
-      "id": 7
     }
   ]
 }
